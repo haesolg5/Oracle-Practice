@@ -169,4 +169,4 @@ where
     E.department_id=D.department_id and
     J.job_id=E.job_id and
     lower(city)='seattle';
-
+ddd
